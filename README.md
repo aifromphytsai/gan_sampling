@@ -19,11 +19,11 @@ PyTorch implementation. More details can be seen in the medium article here:
 ### Results
 * For mu = 0.0, sigma = 1.0:
     * After 1 epoch,
-    <img src = 'readme_src/Gaussian_mu_0_sigma_1_ep_0.png'>
+      <img src = 'readme_src/Gaussian_mu_0_sigma_1_ep_0.png'>
     * Afrer 2000 epochs,
-    <img src = 'readme_src/Gaussian_mu_0_sigma_1_ep_1900.png'>
+      <img src = 'readme_src/Gaussian_mu_0_sigma_1_ep_1900.png'>
     * Whole training evolution,
-    <img src = 'readme_src/training.gif'>
+      <img src = 'readme_src/training.gif'>
 
 ### References
 1. https://github.com/togheppi/vanilla_GAN
