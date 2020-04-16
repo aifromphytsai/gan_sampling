@@ -24,6 +24,11 @@ PyTorch implementation. More details can be seen in the medium article here:
       <img src = 'readme_src/Gaussian_mu_0_sigma_1_ep_1900.png' class="center">
     * Whole training evolution, <br>
       <img src = 'readme_src/training.gif' class="center">
+      
+### Further improvements
+* minibatch feature
+* WGAN implementation
+* WGAN-GP implementation
 
 ### References
 1. https://github.com/togheppi/vanilla_GAN
