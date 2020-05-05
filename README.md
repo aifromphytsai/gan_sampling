@@ -1,5 +1,6 @@
 # Tutorial: A simple GAN to generate samples from Gaussian distribution
 PyTorch implementation. More details can be seen in the medium article here (mandarin version):
+https://medium.com/ai-academy-taiwan/sampling-by-gan-a-simple-case-study-6d0a8483592b
 
 * Environment used:
     * torch 1.1.0
